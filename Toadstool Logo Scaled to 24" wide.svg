@@ -2,11 +2,11 @@
 <svg
    id="a"
    data-name="Layer 2"
-   viewBox="0 0 657.29141 287.43689"
+   viewBox="0 0 609.99998 266.75838"
    version="1.1"
-   sodipodi:docname="Toadstool Logo Scaled to 24&quot;.svg"
-   width="657.39001"
-   height="287.48001"
+   sodipodi:docname="Toadstool Logo Scaled to 24&quot; wide.svg"
+   width="610.09149"
+   height="266.7984"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,18 @@
      viewbox-width="610"
      scale-x="0.92791"
      inkscape:zoom="1.5607174"
-     inkscape:cx="328.695"
-     inkscape:cy="143.52374"
+     inkscape:cx="304.98795"
+     inkscape:cy="133.27205"
      inkscape:window-width="2484"
      inkscape:window-height="1413"
      inkscape:window-x="472"
      inkscape:window-y="938"
      inkscape:window-maximized="0"
-     inkscape:current-layer="a" />
+     inkscape:current-layer="a"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs900">
     <style
@@ -46,7 +50,7 @@
   <g
      id="b"
      data-name="toad3"
-     transform="matrix(0.92791,0,0,0.92791,23.695644,10.362164)">
+     transform="matrix(0.92791,0,0,0.92791,3.296188e-4,0.00208523)">
     <g
        id="g918">
       <path
