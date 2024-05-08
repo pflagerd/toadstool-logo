@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   data-name="Layer 2"
+   viewBox="0 0 382.0386 286.50081"
+   version="1.1"
+   sodipodi:docname="Toadstool Logo Scaled to 30&quot; wide - ad.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   width="382.0386"
+   height="286.50082"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview848"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8145836"
+     inkscape:cx="284.6383"
+     inkscape:cy="45.740521"
+     inkscape:window-width="2619"
+     inkscape:window-height="1547"
+     inkscape:window-x="445"
+     inkscape:window-y="961"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs826">
+    <style
+       id="style824">
+      .c {
+        fill: #f2ae6b;
+        stroke-width: 0px;
+      }
+    </style>
+    <marker
+       id="CheckToolsAndOPMarker"
+       orient="auto"
+       refX="-4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882"
+         style="fill:#000044;fill-rule:evenodd;stroke:none"
+         id="path1307" />
+    </marker>
+    <marker
+       id="DrawCurveMarker"
+       orient="auto"
+       refX="-4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882"
+         style="fill:#000044;fill-rule:evenodd;stroke:none"
+         id="path1310" />
+    </marker>
+    <marker
+       id="DrawCurveMarker_r"
+       orient="auto"
+       refX="4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d="m -4.588864,-1.687441 v 0 L -9.177728,0 c 0.73311,-0.996261 0.728882,-2.359329 0,-3.374882"
+         style="fill:#000044;fill-rule:evenodd;stroke:none"
+         id="path1313" />
+    </marker>
+    <marker
+       id="InOutPathMarker"
+       orient="auto"
+       refX="-4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882"
+         style="fill:#0072a7;fill-rule:evenodd;stroke:none"
+         id="path1316" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(-33.250251,23.757667)">
+    <path
+       id="path834"
+       class="c"
+       d="M 421.37109,0.0234375 C 419.5346,-0.02659409 417.65321,0.0046015 415.72852,0.11914062 379.24998,2.2997336 351.32023,36.283967 337.13477,97.978516 281.28607,74.374755 214.69702,14.245144 152.86328,17.933594 111.64079,20.392561 84.021897,51.664966 86.330078,90.3125 c 2.168994,36.22336 30.597922,54.45593 41.964842,53.7832 1.41507,-0.0812 2.5065,-1.7624 2.37891,-3.9082 -0.17398,-2.94612 -4.96363,-7.51711 -5.60156,-18.24609 -1.1367,-19.057 10.32298,-38.32159 37.80078,-39.957035 66.33411,-3.955225 107.82265,21.850945 168.91406,41.638675 -4.43078,17.50274 -9.60389,46.36095 -12.09766,64.28125 -2.22698,-1.48466 -8.56029,-4.07102 -16.85351,-3.57227 -26.53828,1.57745 -44.79576,26.37578 -42.98633,56.69531 1.18309,19.85731 12.04053,30.51715 28.62695,29.53125 17.06199,-1.02071 28.58008,-15.17187 28.58008,-15.17187 0,0 4.82511,13.17667 19.27734,12.31836 12.64573,-0.75659 22.2381,-8.86158 27.6543,-15.9082 -1.46231,-3.0888 -2.1411,-6.54132 -1.82422,-10.30469 0.0918,-1.09391 0.27343,-2.13165 0.53125,-3.10938 -0.0976,0.1225 -0.16067,0.15859 -0.26367,0.29102 -2.86493,3.66525 -4.63924,5.92635 -8.66406,6.16992 -4.26839,0.25518 -7.11174,-3.6073 -7.5293,-10.58984 -1.44987,-24.42729 11.87826,-87.96613 16.54102,-105.48047 6.48378,1.22949 19.40499,2.60968 25.33203,2.26172 42.88113,-2.55176 83.08288,-29.99469 79.95117,-82.595707 C 466.35529,19.753924 448.91842,0.77391139 421.37109,0.0234375 Z M 411.12305,50.492188 c 11.37852,-0.684335 18.66208,5.891996 19.41601,18.5 1.17149,19.590541 -11.27233,38.104032 -40.65234,39.855472 -6.15902,0.37116 -15.4512,0.11493 -21.69141,-0.85938 h -0.0117 c 9.84746,-38.287968 24.46242,-56.394198 42.93946,-57.496092 z M 309.4082,198.75 c 2.83617,-0.15826 4.36552,1.62644 4.5625,4.84766 0.9975,16.63282 -3.86304,46.81375 -12.15625,47.3125 -3.54926,0.20878 -5.93706,-3.95474 -6.27343,-9.5918 -1.05533,-17.70879 5.81915,-42.0855 13.86718,-42.56836 z"
+       transform="translate(-52.945359,-23.758053)" />
+    <path
+       class="c"
+       d="m 183.59142,253.58585 c -13.30394,2.43577 -20.94761,-9.01234 -21.65515,-10.25343 -0.37116,0.61475 -7.06373,15.49613 -25.73795,18.91781 -14.70741,2.69095 -29.25243,-5.59067 -32.97568,-25.94674 -4.778744,-26.17872 4.34959,-55.45434 37.73122,-61.55536 12.37603,-2.26179 17.9667,1.91382 21.70155,1.22948 5.83424,-1.0671 15.42653,-8.01484 20.79682,-8.98915 2.0994,-0.38276 3.70005,0.41756 4.222,3.32889 1.15989,6.3446 -3.24769,28.4637 0.52195,49.09814 1.25269,6.87815 5.71826,10.16064 9.91706,9.39511 3.96683,-0.71913 5.45149,-3.1781 7.85246,-7.17972 1.29908,-2.14579 2.0878,-3.1085 3.49127,-3.37528 2.0994,-0.38276 3.65365,1.51946 3.94362,3.10851 0.53355,2.91132 -0.48715,5.2775 -2.19219,9.13993 -3.59566,8.03804 -12.92117,20.40247 -27.62858,23.08181 z m -36.23496,-64.97704 c -7.93365,1.44987 -11.80768,26.48029 -8.61799,43.93664 1.00911,5.55587 3.88564,9.40671 7.3885,8.75717 8.17723,-1.49626 9.34872,-32.04776 6.3562,-48.43701 -0.57994,-3.1781 -2.31978,-4.76715 -5.11511,-4.2568 v 0 z"
+       id="path832" />
+    <g
+       gcodetools="Preview group"
+       id="g2078" />
+    <g
+       gcodetools="Preview group"
+       id="g2080" />
+    <g
+       gcodetools="Preview group"
+       id="g2082" />
+    <g
+       gcodetools="Preview group"
+       id="g2084" />
+    <g
+       gcodetools="Preview group"
+       id="g2086" />
+    <g
+       gcodetools="Preview group"
+       id="g2088" />
+    <g
+       gcodetools="Preview group"
+       id="g2090" />
+    <g
+       gcodetools="Preview group"
+       id="g2092" />
+    <g
+       gcodetools="Preview group"
+       id="g2094" />
+    <g
+       gcodetools="Preview group"
+       id="g2096" />
+    <g
+       gcodetools="Preview group"
+       id="g2098" />
+    <g
+       gcodetools="Preview group"
+       id="g2100" />
+    <g
+       gcodetools="Preview group"
+       id="g2102" />
+    <g
+       gcodetools="Preview group"
+       id="g10128" />
+    <g
+       gcodetools="Preview group"
+       id="g10130" />
+    <g
+       gcodetools="Preview group"
+       id="g10132" />
+    <g
+       gcodetools="Preview group"
+       id="g10134" />
+    <g
+       gcodetools="Preview group"
+       id="g10136" />
+    <g
+       gcodetools="Preview group"
+       id="g10138" />
+    <g
+       gcodetools="Preview group"
+       id="g10140" />
+    <g
+       gcodetools="Preview group"
+       id="g10142" />
+    <g
+       gcodetools="Preview group"
+       id="g10144" />
+    <g
+       gcodetools="Preview group"
+       id="g10146" />
+    <g
+       gcodetools="Preview group"
+       id="g10148" />
+    <g
+       gcodetools="Preview group"
+       id="g10150" />
+    <g
+       gcodetools="Preview group"
+       id="g10152" />
+    <g
+       gcodetools="Preview group"
+       id="g20445" />
+    <g
+       gcodetools="Preview group"
+       id="g20447" />
+    <g
+       gcodetools="Preview group"
+       id="g20449" />
+    <g
+       gcodetools="Preview group"
+       id="g20451" />
+    <g
+       gcodetools="Preview group"
+       id="g20453" />
+    <g
+       gcodetools="Preview group"
+       id="g20455" />
+    <g
+       gcodetools="Preview group"
+       id="g20457" />
+    <g
+       gcodetools="Preview group"
+       id="g20459" />
+    <g
+       gcodetools="Preview group"
+       id="g20461" />
+    <g
+       gcodetools="Preview group"
+       id="g20463" />
+    <g
+       gcodetools="Preview group"
+       id="g20465" />
+    <g
+       gcodetools="Preview group"
+       id="g20467" />
+    <g
+       gcodetools="Preview group"
+       id="g20469" />
+    <g
+       gcodetools="Preview group"
+       id="g28462" />
+    <g
+       gcodetools="Preview group"
+       id="g28464" />
+    <g
+       gcodetools="Preview group"
+       id="g28466" />
+    <g
+       gcodetools="Preview group"
+       id="g28468" />
+    <g
+       gcodetools="Preview group"
+       id="g28470" />
+    <g
+       gcodetools="Preview group"
+       id="g28472" />
+    <g
+       gcodetools="Preview group"
+       id="g28474" />
+    <g
+       gcodetools="Preview group"
+       id="g28476" />
+    <g
+       gcodetools="Preview group"
+       id="g28478" />
+    <g
+       gcodetools="Preview group"
+       id="g28480" />
+    <g
+       gcodetools="Preview group"
+       id="g28482" />
+    <g
+       gcodetools="Preview group"
+       id="g28484" />
+    <g
+       gcodetools="Preview group"
+       id="g28486" />
+  </g>
+  <g
+     id="g2105"
+     transform="translate(-33.250251,23.757667)" />
+  <g
+     id="g10156"
+     transform="translate(-33.250251,23.757667)" />
+  <g
+     id="g20474"
+     transform="translate(-33.250251,23.757667)" />
+  <g
+     id="g28492"
+     transform="translate(-33.250251,23.757667)" />
+</svg>
