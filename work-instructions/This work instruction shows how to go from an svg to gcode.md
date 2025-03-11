@@ -8,4 +8,5 @@ The first thing to do here is to remove the gcodetools-created components of the
 
 ![image-20250311140644970](/home/oy753c/.config/Typora/typora-user-images/image-20250311140644970.png)
 
-Step 1 is to open the file in 
+Step 1 is to open the file with Inkscape as shown above. You can see this process [here](https://github.com/pflagerd/toadstool-logo/blob/master/videos/How%20to%20remove%20gcodetools-generated%20components%20of%20inkscape%20drawing.mkv)
+
