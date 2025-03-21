@@ -4,9 +4,9 @@ The file is called [Toadstool Logo Scaled to 30 inches wide - sto.svg](https://g
 
 I abandoned gcodetools in favor of [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/), even though [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) only runs on Windows and is a subscription product.
 
-1. The first thing to do here is to remove the gcodetools-created components of the drawing, which include the rectangle and the origin, and all the little arrows.
+1. The first thing to do here is to remove the gcodetools-created components of the drawing, which include the rectangle and the origin, and all the little arrows. You can see this process demonstrated [here](https://github.com/pflagerd/toadstool-logo/blob/master/videos/How%20to%20remove%20gcodetools-generated%20components%20of%20inkscape%20drawing.mkv)
 
 ![image](https://github.com/user-attachments/assets/185c631e-43a8-40e4-b862-42bdbc3f4ca9)
 
-1a. Open the file with Inkscape as shown above. You can see this process [here](https://github.com/pflagerd/toadstool-logo/blob/master/videos/How%20to%20remove%20gcodetools-generated%20components%20of%20inkscape%20drawing.mkv)
+2. 
 
